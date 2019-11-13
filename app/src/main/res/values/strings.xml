@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Urban Dictionary</string>
+    <string name="thumbs_up">👍</string>
+    <string name="thumbs_down">👎</string>
+    <string name="search_hint">Search...</string>
+    <string name="count_text">%1$d👍 %2$d👎</string>
+</resources>
